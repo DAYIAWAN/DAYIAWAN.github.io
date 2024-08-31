@@ -72,6 +72,9 @@
 6. Простой телеграм-бот для продажи товаров и услуг на Python  
    [Telegram](https://t.me/MOTOYAMA_bot)
 
+7. "MyTravel" — система бронирования на основе фреймворка Laravel, разработанная для туристического веб-сайта (PHP)  
+   [GitHub](https://github.com/DAYIAWAN/Course-at-GB/tree/main/myCourses/PHP/Laravel)
+
 ---
 
 С уважением,  
