@@ -8,41 +8,42 @@
 
 С 2007 года изучал различные IT-направления по разработке Web-сайтов и Видео-презентаций, а позже (с 2010 года) стал выполнять работы на заказ на фрилансе. В целом программирование для меня не только сфера деятельности, но также и моё хобби по жизни. Активно слежу за трендами, люблю учиться новому и совершенствовать свои навыки в целом. На текущий момент учусь в [GeekBrains](https://gb.ru) по специализации "Full-stack разработчик".
 
-## Технические навыки
+## 🔧 Мои навыки и технологии
 
-### Фронтенд-разработка
-- JavaScript (продвинутый уровень)
-- HTML5, CSS3
-- React.js, AngularJS
+### 🖥️ Языки программирования
 
-### Бэкенд-разработка
-- Node.js, Express.js
-- MongoDB, MySQL
-- RESTful API
+![C#](https://img.shields.io/badge/C-sharp-BE73D8?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3A75B0?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Веб-дизайн
-- Adobe Dreamweaver (продвинутый уровень)
-- Adobe Fireworks, Adobe Photoshop (любая версия)
-- Adobe Illustrator (любая версия), CorelDRAW (по необходимости)
+### 🌐 Frontend
 
-### Интеграция и управление контентом
-- 1С-Битрикс (включая CRM и интеграции)
-- OpenCart, CS-Cart, Webasyst, Joomla, Wordpress, MotoCMS
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=red)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Разработка видео-контента
-- Adobe Premiere Pro, Adobe After Effects
-- DAZ 3D Studio (для работы с VR-контентом)
+### 🔙 Backend
 
-### Инструменты разработки
-- Visual Studio Code (VS Code), Notepad++
-- GIT ([GitHub](https://github.com/DAYIAWAN), GitLab)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=red)
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Проектирование и организация процессов
-- Notion
+### 🛢️ Базы данных
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Инструменты
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Дополнительные навыки
 
-- Управление проектами: Agile/Scrum методологии, Trello, Jira
+- Управление проектами: Agile/Scrum методологии, Trello, Jira, а также платформа **Notion**
 - Бухгалтерский учёт, подготовка отчётности, документооборот в сервисах "Моё Дело" и "Контур. Эльба" (и другие)
 
 Кроме того, я отлично справляюсь с наполнением контентом, таким как карточки товаров для интернет-магазинов, написание SEO-ориентированных статей и многое другое. Имею богатый опыт работы в команде и готов быстро адаптироваться к новым задачам и технологиям.
@@ -74,6 +75,10 @@
 
 7. "MyTravel" — система бронирования на основе фреймворка Laravel, разработанная для туристического веб-сайта (PHP)  
    [GitHub](https://github.com/DAYIAWAN/Course-at-GB/tree/main/myCourses/PHP/Laravel)
+
+---
+
+💬 Открыт к сотрудничеству)!
 
 ---
 
