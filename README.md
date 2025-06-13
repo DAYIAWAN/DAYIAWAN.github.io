@@ -68,4 +68,8 @@
 
 🙏 Благодарю за интерес к моему профилю!
 
-<p align="center">☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤☤</p>
+<p align="center">
+  <img src="https://motoyama.one/mt-content/uploads/2016/08/image0.gif" alt="">
+  <img src="https://motoyama.one/mt-content/uploads/2016/08/image0.gif" alt="">
+  <img src="https://motoyama.one/mt-content/uploads/2016/08/image0.gif" alt="">
+</p>
